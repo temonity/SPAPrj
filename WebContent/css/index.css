@@ -1,1 +1,6 @@
 @CHARSET "EUC-KR";
+
+body
+{
+  font-color:red;
+}
